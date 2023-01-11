@@ -1,0 +1,35 @@
+Winners:
+1: Bradley
+2: Adhiraj
+3: Howard
+4: None of the Above
+
+Election Data:
+Election 1:
+Round 1:
+	Exec	Leader	General	Exec_weighted	Leader_weighted	General_weighted	total_weighted	total_raw
+Bradley	8	9	24	25.00	25.00	42.86	92.86	41
+Adhiraj	0	0	2	0.00	0.00	3.57	3.57	2
+Howard	0	0	1	0.00	0.00	1.79	1.79	1
+None of the Above	0	0	1	0.00	0.00	1.79	1.79	1
+
+
+Election 2:
+Round 1:
+	Exec	Leader	General	Exec_weighted	Leader_weighted	General_weighted	total_weighted	total_raw
+Adhiraj	3	2	18	9.38	5.56	33.33	48.26	23
+Howard	4	4	8	12.50	11.11	14.81	38.43	16
+None of the Above	1	3	1	3.12	8.33	1.85	13.31	5
+
+Round 2:
+	Exec	Leader	General	Exec_weighted	Leader_weighted	General_weighted	total_weighted	total_raw
+Adhiraj	3	4	19	9.38	11.11	35.19	55.67	26
+Howard	5	5	8	15.62	13.89	14.81	44.33	18
+
+
+Election 3:
+Round 1:
+	Exec	Leader	General	Exec_weighted	Leader_weighted	General_weighted	total_weighted	total_raw
+Howard	7	6	24	21.88	16.67	46.15	84.70	37
+None of the Above	1	3	2	3.12	8.33	3.85	15.30	6
+

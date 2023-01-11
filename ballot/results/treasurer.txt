@@ -1,0 +1,30 @@
+Winners:
+1: Shamith
+2: Rhythm
+3: Adhiraj
+4: None of the Above
+
+Election Data:
+Election 1:
+Round 1:
+	Exec	Leader	General	Exec_weighted	Leader_weighted	General_weighted	total_weighted	total_raw
+Shamith	8	6	15	20.00	16.67	26.79	63.45	29
+Rhythm	2	3	7	5.00	8.33	12.50	25.83	12
+Adhiraj	0	0	4	0.00	0.00	7.14	7.14	4
+None of the Above	0	0	2	0.00	0.00	3.57	3.57	2
+
+
+Election 2:
+Round 1:
+	Exec	Leader	General	Exec_weighted	Leader_weighted	General_weighted	total_weighted	total_raw
+Rhythm	8	7	18	20.00	19.44	32.14	71.59	33
+Adhiraj	1	0	8	2.50	0.00	14.29	16.79	9
+None of the Above	1	2	2	2.50	5.56	3.57	11.63	5
+
+
+Election 3:
+Round 1:
+	Exec	Leader	General	Exec_weighted	Leader_weighted	General_weighted	total_weighted	total_raw
+Adhiraj	8	6	22	20.00	16.67	39.29	75.95	36
+None of the Above	2	3	6	5.00	8.33	10.71	24.05	11
+

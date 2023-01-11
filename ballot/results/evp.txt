@@ -1,0 +1,30 @@
+Winners:
+1: Sathvika
+2: Howard
+3: Ichchitaa
+4: None of the Above
+
+Election Data:
+Election 1:
+Round 1:
+	Exec	Leader	General	Exec_weighted	Leader_weighted	General_weighted	total_weighted	total_raw
+Sathvika	8	7	21	22.22	19.44	43.75	85.42	36
+Howard	0	2	2	0.00	5.56	4.17	9.72	4
+Ichchitaa	1	0	0	2.78	0.00	0.00	2.78	1
+None of the Above	0	0	1	0.00	0.00	2.08	2.08	1
+
+
+Election 2:
+Round 1:
+	Exec	Leader	General	Exec_weighted	Leader_weighted	General_weighted	total_weighted	total_raw
+Howard	6	7	19	16.67	19.44	39.58	75.69	32
+None of the Above	2	2	2	5.56	5.56	4.17	15.28	6
+Ichchitaa	1	0	3	2.78	0.00	6.25	9.03	4
+
+
+Election 3:
+Round 1:
+	Exec	Leader	General	Exec_weighted	Leader_weighted	General_weighted	total_weighted	total_raw
+Ichchitaa	7	6	20	19.44	16.67	43.48	79.59	33
+None of the Above	2	3	3	5.56	8.33	6.52	20.41	8
+

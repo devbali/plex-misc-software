@@ -1,0 +1,24 @@
+Winners:
+1: B
+2: A
+3: C
+Election Data:
+Election 1:
+Round 1:
+	Exec	Leader	General	Exec_weighted	Leader_weighted	General_weighted	total_weighted	total_raw
+A	1	1	1	12.50	12.50	16.67	41.67	3
+B	1	1	1	12.50	12.50	16.67	41.67	3
+C	0	0	1	0.00	0.00	16.67	16.67	1
+
+Round 2:
+	Exec	Leader	General	Exec_weighted	Leader_weighted	General_weighted	total_weighted	total_raw
+B	1	1	2	12.50	12.50	33.33	58.33	4
+A	1	1	1	12.50	12.50	16.67	41.67	3
+
+
+Election 2:
+Round 1:
+	Exec	Leader	General	Exec_weighted	Leader_weighted	General_weighted	total_weighted	total_raw
+A	2	1	1	25.00	12.50	16.67	54.17	4
+C	0	1	2	0.00	12.50	33.33	45.83	3
+

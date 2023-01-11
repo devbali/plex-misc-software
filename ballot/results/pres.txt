@@ -1,0 +1,79 @@
+Winners:
+1: Dylan
+2: Akhil
+3: Somu
+4: Amal
+5: Ichchitaa
+6: Winston
+7: None of the Above
+
+Election Data:
+Election 1:
+Round 1:
+	Exec	Leader	General	Exec_weighted	Leader_weighted	General_weighted	total_weighted	total_raw
+Dylan	4	4	15	12.50	11.11	28.85	52.46	23
+Akhil	3	3	4	9.38	8.33	7.69	25.40	10
+Amal	1	1	5	3.12	2.78	9.62	15.52	7
+Somu	0	1	0	0.00	2.78	0.00	2.78	1
+Ichchitaa	0	0	1	0.00	0.00	1.92	1.92	1
+None of the Above	0	0	1	0.00	0.00	1.92	1.92	1
+Winston	0	0	0	0.00	0.00	0.00	0.00	0
+
+
+Election 2:
+Round 1:
+	Exec	Leader	General	Exec_weighted	Leader_weighted	General_weighted	total_weighted	total_raw
+Akhil	4	6	12	12.50	16.67	23.08	52.24	22
+Amal	3	1	9	9.38	2.78	17.31	29.46	13
+Somu	1	2	2	3.12	5.56	3.85	12.53	5
+Ichchitaa	0	0	1	0.00	0.00	1.92	1.92	1
+Winston	0	0	1	0.00	0.00	1.92	1.92	1
+None of the Above	0	0	1	0.00	0.00	1.92	1.92	1
+
+
+Election 3:
+Round 1:
+	Exec	Leader	General	Exec_weighted	Leader_weighted	General_weighted	total_weighted	total_raw
+Somu	5	7	7	15.62	19.44	13.46	48.53	19
+Amal	3	1	12	9.38	2.78	23.08	35.23	16
+Ichchitaa	0	1	3	0.00	2.78	5.77	8.55	4
+Winston	0	0	3	0.00	0.00	5.77	5.77	3
+None of the Above	0	0	1	0.00	0.00	1.92	1.92	1
+
+Round 2:
+	Exec	Leader	General	Exec_weighted	Leader_weighted	General_weighted	total_weighted	total_raw
+Somu	5	7	7	15.62	19.44	13.46	48.53	19
+Amal	3	1	13	9.38	2.78	25.00	37.15	17
+Ichchitaa	0	1	3	0.00	2.78	5.77	8.55	4
+Winston	0	0	3	0.00	0.00	5.77	5.77	3
+
+Round 3:
+	Exec	Leader	General	Exec_weighted	Leader_weighted	General_weighted	total_weighted	total_raw
+Somu	5	7	9	15.62	19.44	17.31	52.38	21
+Amal	3	1	13	9.38	2.78	25.00	37.15	17
+Ichchitaa	0	1	4	0.00	2.78	7.69	10.47	5
+
+
+Election 4:
+Round 1:
+	Exec	Leader	General	Exec_weighted	Leader_weighted	General_weighted	total_weighted	total_raw
+Amal	5	5	17	15.62	13.89	34.00	63.51	27
+Winston	1	2	4	3.12	5.56	8.00	16.68	7
+Ichchitaa	0	2	3	0.00	5.56	6.00	11.56	5
+None of the Above	2	0	1	6.25	0.00	2.00	8.25	3
+
+
+Election 5:
+Round 1:
+	Exec	Leader	General	Exec_weighted	Leader_weighted	General_weighted	total_weighted	total_raw
+Ichchitaa	5	6	16	15.62	16.67	32.00	64.29	27
+Winston	1	3	7	3.12	8.33	14.00	25.46	11
+None of the Above	2	0	2	6.25	0.00	4.00	10.25	4
+
+
+Election 6:
+Round 1:
+	Exec	Leader	General	Exec_weighted	Leader_weighted	General_weighted	total_weighted	total_raw
+Winston	5	8	19	15.62	22.22	38.00	75.85	32
+None of the Above	3	1	6	9.38	2.78	12.00	24.15	10
+

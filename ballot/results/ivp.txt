@@ -1,0 +1,59 @@
+Winners:
+1: Jenna
+2: Tia
+3: Amal
+4: Adhiraj
+5: None of the Above
+
+Election Data:
+Election 1:
+Round 1:
+	Exec	Leader	General	Exec_weighted	Leader_weighted	General_weighted	total_weighted	total_raw
+Tia	2	3	11	6.25	8.33	22.00	36.58	16
+Jenna	3	5	5	9.38	13.89	10.00	33.26	13
+Amal	3	1	7	9.38	2.78	14.00	26.15	11
+Adhiraj	0	0	2	0.00	0.00	4.00	4.00	2
+None of the Above	0	0	0	0.00	0.00	0.00	0.00	0
+
+Round 2:
+	Exec	Leader	General	Exec_weighted	Leader_weighted	General_weighted	total_weighted	total_raw
+Tia	2	3	11	6.25	8.33	22.00	36.58	16
+Jenna	3	5	5	9.38	13.89	10.00	33.26	13
+Amal	3	1	7	9.38	2.78	14.00	26.15	11
+Adhiraj	0	0	2	0.00	0.00	4.00	4.00	2
+
+Round 3:
+	Exec	Leader	General	Exec_weighted	Leader_weighted	General_weighted	total_weighted	total_raw
+Tia	2	3	11	6.25	8.33	22.00	36.58	16
+Jenna	3	5	6	9.38	13.89	12.00	35.26	14
+Amal	3	1	8	9.38	2.78	16.00	28.15	12
+
+Round 4:
+	Exec	Leader	General	Exec_weighted	Leader_weighted	General_weighted	total_weighted	total_raw
+Jenna	5	6	10	15.62	16.67	20.00	52.29	21
+Tia	3	3	15	9.38	8.33	30.00	47.71	21
+
+
+Election 2:
+Round 1:
+	Exec	Leader	General	Exec_weighted	Leader_weighted	General_weighted	total_weighted	total_raw
+Tia	4	7	16	12.50	19.44	32.00	63.94	27
+Amal	4	2	7	12.50	5.56	14.00	32.06	13
+Adhiraj	0	0	2	0.00	0.00	4.00	4.00	2
+None of the Above	0	0	0	0.00	0.00	0.00	0.00	0
+
+
+Election 3:
+Round 1:
+	Exec	Leader	General	Exec_weighted	Leader_weighted	General_weighted	total_weighted	total_raw
+Amal	7	8	21	21.88	22.22	42.00	86.10	36
+Adhiraj	0	0	4	0.00	0.00	8.00	8.00	4
+None of the Above	1	1	0	3.12	2.78	0.00	5.90	2
+
+
+Election 4:
+Round 1:
+	Exec	Leader	General	Exec_weighted	Leader_weighted	General_weighted	total_weighted	total_raw
+Adhiraj	6	4	22	18.75	11.11	44.00	73.86	32
+None of the Above	2	5	3	6.25	13.89	6.00	26.14	10
+
